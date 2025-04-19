@@ -1,4 +1,4 @@
-# Task2
+
 Key Takeaways:
 1. Antihistamines show a clear seasonal spike during March to May, likely due to allergy season.
 
